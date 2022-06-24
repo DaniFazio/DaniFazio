@@ -18,4 +18,4 @@
 
 <h3>🛠 Tech program</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
+- 🌐 &nbsp; HTML || CSS || Bootstrap || JavaScript 
